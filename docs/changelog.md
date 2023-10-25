@@ -1,5 +1,9 @@
 # Changelog
 
+## 21.5.0
+
+- Feature: add `cssClasses`, `headerHeight`, `footerHeight` and `rowHeight` to global configuration
+
 ## 21.4.1
 
 - Fix: emit missing `dragleave` drag-and-drop event
