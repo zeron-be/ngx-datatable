@@ -1,5 +1,9 @@
 # Changelog
 
+## 21.6.0
+
+- Feature: upgrade project to Angular 15
+
 ## 21.5.0
 
 - Feature: add `cssClasses`, `headerHeight`, `footerHeight` and `rowHeight` to global configuration
