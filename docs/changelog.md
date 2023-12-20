@@ -1,5 +1,10 @@
 # Changelog
 
+## 22.0.0
+
+- Feature: upgrade project to Angular 17
+- Breaking Change: update to Angular 17
+
 ## 21.6.0
 
 - Feature: upgrade project to Angular 15
