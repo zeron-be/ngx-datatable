@@ -1,5 +1,9 @@
 # Changelog
 
+## 22.0.1
+
+- Fix: allow row disabling through side effects
+
 ## 22.0.0
 
 - Feature: upgrade project to Angular 17
