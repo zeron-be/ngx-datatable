@@ -1,5 +1,9 @@
 # Changelog
 
+## 22.0.2
+
+- Fix: adjust for overflow when scaling columns in flex mode
+
 ## 22.0.1
 
 - Fix: allow row disabling through side effects
