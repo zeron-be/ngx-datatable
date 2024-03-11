@@ -1,5 +1,9 @@
 # Changelog
 
+## 22.1.0
+
+- Feature: support keyboard shortcuts for all rows selection
+
 ## 22.0.2
 
 - Fix: adjust for overflow when scaling columns in flex mode
