@@ -1,5 +1,9 @@
 # Changelog
 
+## 22.1.1
+
+- Fix: emit page objects when changing page offset
+
 ## 22.1.0
 
 - Feature: support keyboard shortcuts for all rows selection
