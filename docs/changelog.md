@@ -1,5 +1,10 @@
 # Changelog
 
+## 22.2.0
+
+- Feature: add types for table rows
+- Fix: move footer outside of aria role table
+
 ## 22.1.1
 
 - Fix: emit page objects when changing page offset
