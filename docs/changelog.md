@@ -1,5 +1,13 @@
 # Changelog
 
+## 22.2.1
+
+- Fix: revert add types for table rows
+
+  We introduced a breaking change, as `undefined` was
+  not allowed as row input any more. Reverting the change
+  and will re-introduce as the typing later.
+
 ## 22.2.0
 
 - Feature: add types for table rows
